@@ -20,7 +20,7 @@ Then another window will allow you to choose the method by which you want to do 
 
 
 
-###  1 - Example of Hermite and Hermite-v2 :
+###  1 - Example of Spline Hermite and Hermite-v2 :
 
 <p align="center">
 <img src="pics/4.png"  width="400"  height="300"/>
