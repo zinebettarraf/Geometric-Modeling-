@@ -1,7 +1,6 @@
 # Geometric-Modeling
 
-The project is interested in modeling parametric curves interpolating the points Pk,
-using Hermite cubic splines, with tangents estimated by Cardinal splines at first, then by two other estimates of the tangents (Hermite_v1 and Hermite_v2), then we have moved to Lagrange interpolation, and finally to cubic splines C2 .
+The project is interested in modeling parametric curves interpolating a set of points using Hermite cubic splines, with tangents estimated by Cardinal splines at first, then by two other estimates of the tangents (Hermite_v1 and Hermite_v2), then we have moved to Lagrange interpolation, and finally to cubic splines C2 .
 
 ## 1/ Demo of the code :
 
