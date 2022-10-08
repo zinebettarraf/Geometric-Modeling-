@@ -19,25 +19,21 @@ Then another window will allow you to choose the method by which you want to do 
 <img src="pics/2.png"  width="400"  height="300"/>
 </p>
 
-### 1 - Example of Hermite and Hermite-v1 :
 
-<p align="center">
-<img src="pics/3.png"  width="400"  height="300"/>
-</p>
 
-###  2 - Example of Hermite and Hermite-v2 :
+###  1 - Example of Hermite and Hermite-v2 :
 
 <p align="center">
 <img src="pics/4.png"  width="400"  height="300"/>
 </p>
 
-###  3 - Lagrange and Spline Hermite  :
+###  2 - Lagrange and Spline Hermite  :
 
 <p align="center">
 <img src="pics/5.png"  width="400"  height="300"/>
 </p>
 
-###  4 - Example of  Lagrange,  Spline Hermite and Spline Cubique C2 :
+###  3 - Example of  Lagrange,  Spline Hermite and Spline Cubique C2 :
 
 <p align="center">
 <img src="pics/6.png"  width="400"  height="300"/>
